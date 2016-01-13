@@ -8,7 +8,7 @@ Package.describe({
 
 Package.onUse(function(api) {
   api.versionsFrom('1.2.1');
-  api.use(['rgnevashev:bootstrap-slider']);
+  api.use(['rgnevashev:bootstrap-slider@6.0.0']);
   api.addFiles([
     "slider.js"
   ], 'client');
