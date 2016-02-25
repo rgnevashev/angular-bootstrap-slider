@@ -1,6 +1,6 @@
 Package.describe({
   name: 'rgnevashev:angular-bootstrap-slider',
-  version: '0.1.24',
+  version: '0.1.26',
   summary: 'An angular directive for seiyria-bootstrap-slider',
   git: 'https://github.com/seiyria/angular-bootstrap-slider',
   documentation: 'README.md'
